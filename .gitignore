@@ -8,3 +8,6 @@
 #python
 venv/
 *.pyc
+
+#images
+images/
