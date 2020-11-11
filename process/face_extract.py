@@ -18,8 +18,17 @@ db = client.similar_star_db
 collection = db.image
 
 
-def extract_face(image_path, filename):
-    save_path = f'../images/faces'
+def extract_face(image_path, filename, save_path='../images/faces'):
+    '''
+
+    Args:
+        image_path: 图片的地址，如C:/images/a.jpg
+        filename: 保存的文件名称
+        save_path: 保存的文件的地址
+
+    Returns:人脸的数目
+
+    '''
     path = f'{save_path}/{filename}'
     image = face_recognition.load_image_file(image_path)
     location = face_recognition.face_locations(image)

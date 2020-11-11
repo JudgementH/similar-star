@@ -11,3 +11,5 @@ venv/
 
 #images
 images/
+
+process/vgg_face_weights.h5
