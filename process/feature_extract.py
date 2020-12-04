@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/11/11 13:22
 
-'利用VGG19进行特征提取'
+'利用VGG19进行特征提取https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/'
 
 __author__ = 'Judgement'
 

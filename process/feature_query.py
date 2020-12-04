@@ -4,6 +4,7 @@
 
 ' 余弦相似度的es应用参考文章'
 'https://www.elastic.co/cn/blog/text-similarity-search-with-vectors-in-elasticsearch'
+'https://www.elastic.co/guide/en/elasticsearch/reference/7.3/query-dsl-script-score-query.html#vector-functions'
 
 __author__ = 'Judgement'
 

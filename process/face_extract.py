@@ -20,7 +20,6 @@ collection = db.image
 
 def extract_face(image_path, filename, save_path='../images/faces'):
     '''
-
     Args:
         image_path: 图片的地址，如C:/images/a.jpg
         filename: 保存的文件名称
