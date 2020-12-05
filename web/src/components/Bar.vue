@@ -17,6 +17,7 @@
                     open-on-hover
                     offset-y
                     bottom
+                    transition="slide-y-transition"
             >
                 <template v-slot:activator="{ on, attrs }">
                     <v-btn
