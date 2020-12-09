@@ -12,15 +12,15 @@ Find the most similar star
 
 
 
-![image-20201205215315144](F:\DD\code\similar-star\note_images\image-20201205215315144.png)
+![image-20201205215315144](.\note_images\image-20201205215315144.png)
 
 
 
 **search for similar stars**
 
-![image-20201205215607819](F:\DD\code\similar-star\note_images\image-20201205215607819.png)
+![image-20201205215607819](.\note_images\image-20201205215607819.png)
 
-![image-20201205215622775](F:\DD\code\similar-star\note_images\image-20201205215622775.png)
+![image-20201205215622775](.\note_images\image-20201205215622775.png)
 
 
 
